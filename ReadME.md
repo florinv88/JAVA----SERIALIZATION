@@ -1,6 +1,7 @@
 ### JAVA - SERIALIZATION
 
 My personal notes while learning :
+
 Este o modalitate de a reprezenta obiecte intr-un mod care ne permite sa le transferam .
 
 Este un mecanism al JVM care permite transformarea unei instante intr-o serie de bytes .
